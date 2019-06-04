@@ -77,11 +77,11 @@ We believe that figuring out the rules is part of the challenge, so for those of
 
 ### 4.1 Box Placement
 
-If you see a square on the map that looks like <img src="https://github.bath.ac.uk/jsw37/Red-SE/blob/master/core/assets/temp/area.png" alt="IMAGE ALT TEXT HERE" width="20" height="20" border="10" /></a> , and think to yourself "this looks suspiciously box shaped", you'd be right! The goal of this level is to get the boxes around any obstacles or mazes in the way and place it on this location. While you're doing so, make sure that you don't get caught by any ghosts!
+If you see a square on the map that looks like <img src="https://github.com/perrymant/dungeon-game/tree/master/core/assets/temp/area.png" alt="IMAGE ALT TEXT HERE" width="20" height="20" border="10" /></a> , and think to yourself "this looks suspiciously box shaped", you'd be right! The goal of this level is to get the boxes around any obstacles or mazes in the way and place it on this location. While you're doing so, make sure that you don't get caught by any ghosts!
 
 ### 4.2 Ogre Trapping
 
-If you see one of these charming guys <img src="https://github.bath.ac.uk/jsw37/Red-SE/blob/master/core/assets/temp/monster.png" alt="IMAGE ALT TEXT HERE" width="20" height="20" border="10" /></a> on the map, and think to yourself "I should definitely avoid him", you'd be right! Unfortunately, things aren't quite that simple in Boxx. The challenge in these levels is to trap the Ogre to prevent them from harrassing unsuspecting protagonists in the future. To do this, just push the boxes that are coincidentally strewn across the map around unitl you have them surrounded! As soon as none of the ogres can move, you win the level.
+If you see one of these charming guys <img src="https://github.com/perrymant/dungeon-game/blob/master/core/assets/temp/monster.png" alt="IMAGE ALT TEXT HERE" width="20" height="20" border="10" /></a> on the map, and think to yourself "I should definitely avoid him", you'd be right! Unfortunately, things aren't quite that simple in Boxx. The challenge in these levels is to trap the Ogre to prevent them from harrassing unsuspecting protagonists in the future. To do this, just push the boxes that are coincidentally strewn across the map around unitl you have them surrounded! As soon as none of the ogres can move, you win the level.
 
 ### 4.3 Multiplayer
 
@@ -90,18 +90,3 @@ If you happen to have a friend brave enough to join you on your adventure, you'l
 ### 4.4 Move Counting
 
 You'll notice when you load up the game that there is a move counter in the top right hand corner of the screen. This is just there so you can tell how many moves it takes you to complete the game, so that you can compare against your friends, and it will reset every time you close the game. Feel free to tie your self worth to this number, it is extremely important.
-
-## 5 Contact Us
-
-We are more happy to answer any questions that you may have regarding Boxx. Feel free to contact us with any questions or concerns at:
-
-| Name    | contact              |
-|---------|----------------------|
-| Rebecca | baixxe058@gmail.com  |
-| Thomas  | tcwp21@bath.ac.uk    |
-| Jean    | jw2935@bath.ac.uk    |
-| Jonny   | jonwalk30@live.co.uk |
-| Shaoyan | sc2770@bath.ac.uk    |
-| Andy    | am2763@bath.ac.uk    |
-
-We would also be excited to hear exactly how brilliant you think our game is (or otherwise), so we would greatly appreciate it if you could send any feedback that you have to one the above emails.
