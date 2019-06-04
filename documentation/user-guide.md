@@ -77,7 +77,7 @@ We believe that figuring out the rules is part of the challenge, so for those of
 
 ### 4.1 Box Placement
 
-If you see a square on the map that looks like <img src="https://github.com/perrymant/dungeon-game/tree/master/core/assets/temp/area.png" alt="IMAGE ALT TEXT HERE" width="20" height="20" border="10" /></a> , and think to yourself "this looks suspiciously box shaped", you'd be right! The goal of this level is to get the boxes around any obstacles or mazes in the way and place it on this location. While you're doing so, make sure that you don't get caught by any ghosts!
+If you see a square on the map that looks like <img src="https://github.com/perrymant/dungeon-game/blob/master/core/assets/temp/area.png" alt="IMAGE ALT TEXT HERE" width="20" height="20" border="10" /></a> , and think to yourself "this looks suspiciously box shaped", you'd be right! The goal of this level is to get the boxes around any obstacles or mazes in the way and place it on this location. While you're doing so, make sure that you don't get caught by any ghosts!
 
 ### 4.2 Ogre Trapping
 
