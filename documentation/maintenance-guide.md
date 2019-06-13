@@ -21,7 +21,7 @@ alt="IMAGE ALT TEXT HERE" width="1200" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="1200" border="10" /></a>
 
 3. You should also check that your Gradle filepath is configured correctly. Go to your `Preferences` (<kbd>command</kbd> + <kbd>,</kbd>) and set these to the appropriate directory:
-<img src="documentation/assets/maintenance-gradle.png"
+<img src="assets/maintenance-gradle.png"
 alt="IMAGE ALT TEXT HERE" width="1200" border="10" /></a>
 
 4. To run the game in Intellij, select `Edit Configurations...`:
